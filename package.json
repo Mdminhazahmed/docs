@@ -92,7 +92,7 @@
   },
   "devDependencies": {
     "@actions/core": "^1.9.0",
-    "@actions/github": "^5.0.3",
+    "@actions/github": "^6.0.0",
     "@alex_neo/jest-expect-message": "^1.0.5",
     "@babel/core": "^7.18.5",
     "@babel/eslint-parser": "^7.18.2",
